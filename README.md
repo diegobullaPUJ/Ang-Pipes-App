@@ -18,4 +18,10 @@ Aplicación de Pipes donde abordamos los siguientes temas de Angular.
 2. PrimeNG.
 
 3. Módulo especializado para módulos de PrimeNG.
+
+4. Pipes personalizados.
+
+5. Argumentos hacia los pipes.
+
+6. SortableTable manual y usando PrimeNg
  
