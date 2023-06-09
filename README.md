@@ -1,6 +1,17 @@
-Aplicación de Pipes donde abordamos los siguientes temas de Angular.
+# PipesApp
 
-1. Todos los Pipes de Angular a la fecha.
+## Ejecutar proyecto localmente
+
+1. Clonar proyecto.
+2. Ejecutar ```npm install``` para descargar las dependencias.
+3. Ejecutar la app ```ng serve -o```.
+
+
+## Descripción
+
+Aplicación de Angular ```biblioteca de pipes``` donde abordamos los siguientes temas de Angular.
+
+  1. Todos los Pipes de Angular a la fecha.
 
 Uppercase,
 Lowercase,
